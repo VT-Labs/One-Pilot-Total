@@ -8,6 +8,8 @@ THE DATA IS PROVIDED “AS IS” AND “AS AVAILABLE”.  WE SHALL NOT BE LIABLE
 # Tell us your research purpose
 For the purpose of Good-faith research, the testing datasets is password-protected. Please contact us your affiliation, research purpose, how to use the datasets, etc., We need to make sure the datasets will be used for the sincerity of intention.
 
+Please contact us at info(at)visualthreat.com for dataset password.
+
 # Data use agreement
 The Open-Pilot-Total data may include software, binary data, testing datasets, scripts, videos, other contents (“Data“). You may not decompile, reverse engineer or disassemble the Data. You agree that you will not tamper with, impair or damage any One-Pilot-Total realted websites.
 
