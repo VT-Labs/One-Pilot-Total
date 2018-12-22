@@ -2,6 +2,19 @@
 The Open-Pilot-Total is an automotive testing bench platform on automotive Firwall/IDS/IPS. It offers a bunch of practical toolkits and testing data repostiory for universities, reseach groups and secuity vendors.
 Users can leaverage this platform to evaluate their POCs/pilot programs/demos/products.
 
+# Data use agreement
+The pen-Pilot-Total data may include software, binary data, testing datasets, scripts, videos, other contents (“Data“). You may not decompile, reverse engineer or disassemble the Data. You agree that you will not tamper with, impair or damage any One-Pilot-Total realted websites.
+
+To access and download the Data, you must contact us and to become a registered user of One-Pilot-Total by providing contact information.  No purchase or payment is required for you to be a registered user. We may suspend or terminate your account and your ability to use the Data if you engage in, encourage or advocate for copyright infringement or any illegal conduct. You are responsible for keeping your username and password confidential, and you are responsible for all activities and use of the Data under your account.  You agree to promptly notify us of any unauthorized use of your username, password or other account information.
+
+The Data may be available only for limited periods of time and may be removed, replaced, changed or updated at any time at our sole discretion and with or without notice to you.
+
+# PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE DATA.
+THE DATA IS PROVIDED “AS IS” AND “AS AVAILABLE”.  WE SHALL NOT BE LIABLE FOR DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, EXEMPLARY, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS AND PROPERTY DAMAGE, EVEN IF WE WERE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION.
+
+# User Feedback
+You may submit your automotive Firewall/IDS/IPS testing resutlts to us to make the One-Pilot-Total better. You acknowledge that One-Pilot-Total shall have the right (but not the obligation) to use the testing results in the feedback to the public.
+
 # Testing datasets
 format example:
 {"timestamp":1500417011404,"seq":0,"id":0x78,"dlc":8,"data":[0x1,0x8,0x80,0x10,0x0,0x0,0x0,0x0]}
