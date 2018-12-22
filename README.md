@@ -2,7 +2,7 @@
 The Open-Pilot-Total is an automotive testing bench platform on automotive Firwall/IDS/IPS. It offers a bunch of practical toolkits and testing data repostiory for universities, reseach groups and secuity vendors.
 Users can leaverage this platform to evaluate their POCs/pilot programs/demos/products.
 
-# PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE DATA.
+# PLEASE READ CAREFULLY BEFORE USING THE DATA.
 THE DATA IS PROVIDED “AS IS” AND “AS AVAILABLE”.  WE SHALL NOT BE LIABLE FOR DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, EXEMPLARY, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS AND PROPERTY DAMAGE, EVEN IF WE WERE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION.
 
 # Tell us your research purpose
